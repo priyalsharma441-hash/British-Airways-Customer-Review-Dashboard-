@@ -75,15 +75,10 @@ The project uses two datasets:
 
 ---
 
+
 ## 📸 Dashboard Preview
 
-> Add a screenshot of your dashboard here after uploading it to GitHub.
-
-Example:
-
-```markdown
-![Dashboard Preview](dashboard.png)
-```
+![Dashboard Preview](Screenshot%202026-07-20%20121626.png)
 
 ---
 
